@@ -14,7 +14,7 @@ public class treeBehavior : MonoBehaviour
     Image tree;
     [SerializeField] private Color myColor;
 
-    GameObject imageObject ;
+    GameObject imageObject;
 
    
 

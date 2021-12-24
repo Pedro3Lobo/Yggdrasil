@@ -22,14 +22,14 @@ public class Drinking : MonoBehaviour
         growing_tree = 1; 
         cups_water = 0;
         drunk_water = GameObject.Find("Cups_Number").GetComponent<Text>();
-        drunk_water.text = cups_water + "/30";
+        drunk_water.text = cups_water + "/11";
     }
     public void Drink()
     {
         cups_water++;
         drunk_water = GameObject.Find("Cups_Number").GetComponent<Text>();
-        drunk_water.text = cups_water + "/30";
-        if (cups_water == 30)
+        drunk_water.text = cups_water + "/11";
+        if (cups_water == 11)
         {
            
             cups_water = 0;

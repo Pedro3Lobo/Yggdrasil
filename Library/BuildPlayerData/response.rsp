@@ -15,6 +15,7 @@
 -a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PlayerScriptAssemblies\Unity.2D.Common.Runtime.dll"
 -a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PlayerScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll"
 -a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PlayerScriptAssemblies\Unity.VisualScripting.State.dll"
+-a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PlayerScriptAssemblies\Unity.Notifications.Android.dll"
 -a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PackageCache\com.unity.visualscripting@1.6.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll"
 -a="C:\Users\Pedro Lobo\Documents\GitHub\Yggdrasil\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll"
 -s="C:\Users\Pedro Lobo\Documents\Unity\2021.1.25f1\Editor\Data\Managed\UnityEngine"

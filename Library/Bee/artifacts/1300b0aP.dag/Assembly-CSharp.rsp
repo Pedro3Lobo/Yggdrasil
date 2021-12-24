@@ -289,6 +289,7 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.2D.Tilemap.Extras.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.InternalAPIEngineBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Mathematics.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Notifications.Android.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.ref.dll"
@@ -296,10 +297,10 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/Drinking.cs"
-"Assets/Script/NewBehaviourScript.cs"
+"Assets/Script/mobile_not.cs"
+"Assets/Script/Popup_man.cs"
 "Assets/Script/Scene_Man.cs"
 "Assets/Script/treeBehavior.cs"
-"Assets/Script/treeBehavior2.cs"
 -langversion:8.0
 
 /deterministic
