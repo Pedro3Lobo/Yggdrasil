@@ -56,11 +56,14 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\JsonReadWriteSystem.cs" />
     <Compile Include="Assets\Script\Drinking.cs" />
     <Compile Include="Assets\Script\Scene_Man.cs" />
     <Compile Include="Assets\Script\mobile_not.cs" />
     <Compile Include="Assets\Script\treeBehavior.cs" />
+    <Compile Include="Assets\Script\DataManager.cs" />
     <Compile Include="Assets\Script\Popup_man.cs" />
+    <Compile Include="Assets\Script\PlayerData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - DataManager
     - Drinking
     - Scene_Man
     - treeBehavior
@@ -67,27 +68,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1546}
     - Class: 114
-      Script: {instanceID: 2256}
+      Script: {instanceID: 2258}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2992}
+      Script: {instanceID: 2994}
     - Class: 114
-      Script: {instanceID: 3044}
+      Script: {instanceID: 3046}
     - Class: 114
-      Script: {instanceID: 3302}
+      Script: {instanceID: 3304}
     - Class: 114
-      Script: {instanceID: 3626}
+      Script: {instanceID: 3628}
     - Class: 114
-      Script: {instanceID: 4504}
+      Script: {instanceID: 4506}
     - Class: 114
-      Script: {instanceID: 4816}
+      Script: {instanceID: 4818}
     - Class: 114
-      Script: {instanceID: 5642}
+      Script: {instanceID: 5644}
     - Class: 114
-      Script: {instanceID: 6294}
+      Script: {instanceID: 6296}
     - Class: 114
-      Script: {instanceID: 6862}
+      Script: {instanceID: 6864}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -128,21 +129,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1546}
     - Class: 114
-      Script: {instanceID: 1754}
+      Script: {instanceID: 1756}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2992}
+      Script: {instanceID: 2994}
     - Class: 114
-      Script: {instanceID: 3302}
+      Script: {instanceID: 3304}
     - Class: 114
-      Script: {instanceID: 3626}
+      Script: {instanceID: 3628}
     - Class: 114
-      Script: {instanceID: 4516}
+      Script: {instanceID: 4518}
     - Class: 114
-      Script: {instanceID: 6294}
+      Script: {instanceID: 6296}
     - Class: 114
-      Script: {instanceID: 6862}
+      Script: {instanceID: 6864}
+    - Class: 114
+      Script: {instanceID: 6986}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -182,6 +185,12 @@ ScriptsOnlyBuild:
     className: PanelRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 2c443d06cce6598bf2bb7dbf56cda9b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JsonReadWriteSystem
+  - hash:
+      serializedVersion: 2
       Hash: 61f2059db36c32396c3d12077855592b
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.U2D.Animation
@@ -212,7 +221,7 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
-      Hash: 0685ffe17164ef1ac11be8fe20347e18
+      Hash: 63a078f22a118658ab9aaee153c379dc
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Drinking
@@ -846,6 +855,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: dd1e4630da0391e4a590cf07b4d1a94e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DataManager
   - hash:
       serializedVersion: 2
       Hash: fc29f975ab35a5033d05bcfda3c82435
